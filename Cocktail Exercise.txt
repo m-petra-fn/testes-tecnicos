@@ -1,0 +1,35 @@
+Exercise
+
+The purpose of this exercise is to see how you approach a problem and has no right answer!
+
+ 
+
+Use the tools and techniques you are most familiar with to provide a solution of your choosing. Don’t spend too long on it, the main purpose is to see how you approach a problem and your coding style. We work primarily in python, so please make sure to provide a solution using this language.
+
+ 
+
+Using the free API at https://www.thecocktaildb.com/api.php to source your data, build functionality to retrieve a cocktail by name and return the results in json format, providing the following fields:
+
+ 
+
+Id
+
+Name
+
+Category
+
+Alcoholic
+
+Glass
+
+Instructions
+
+Thumbnail
+
+Ingredients (including name and measure for each ingredient)
+
+Date Modified
+
+ 
+
+Provide a readme.md file explaining how you came to your solution, and what resources you used.
